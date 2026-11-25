@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://katuni.kileleni.net/sitemap.xml
